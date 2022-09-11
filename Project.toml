@@ -1,4 +1,4 @@
-name = "backtest"
+name = "Backtest"
 uuid = "0a9a0dad-27dc-4cf4-9097-f1c455433e7c"
 authors = ["seb <se-l@gmx.de>"]
 version = "0.1.0"
